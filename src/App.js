@@ -24,7 +24,7 @@ const App = () => {
 
   return (
     <div className="calculator">
-      <h2>React Calculator</h2>
+      <h2>React Calculator App</h2>
       <div className="display">
         <input type="text" value={input} readOnly />
         <h3>{result}</h3>
